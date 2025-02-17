@@ -1,9 +1,10 @@
-/**
- * Complete this source code file
- * Yes, this is supposed to be an easy assignment.
+/*
+ * Name: Laura Esmeralda Martinez
+ * CWID: 867493215
+ * Email: 
  */
 
-/// YOUR WELCOME
+// YOUR WELCOME
 #include "my_functions.hpp"
 
 
