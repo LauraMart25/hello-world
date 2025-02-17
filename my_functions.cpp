@@ -1,7 +1,7 @@
 /*
  * Name: Laura Esmeralda Martinez
  * CWID: 867493215
- * Email: 
+ * Email: lmartinez25@csu.fullerton.edu
  */
 
 // YOUR WELCOME
